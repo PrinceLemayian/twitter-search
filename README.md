@@ -2,6 +2,8 @@
 
 A mobile-first form for building Twitter search queries on devices where the advanced search UI is hard to use. The page collects search fields, assembles a query string, and opens Twitter search in a new tab.
 
+Use it live here <https://ts.stanleymasinde.com>. 
+
 ## What It Does
 
 - Builds Twitter search operators from semantic form fields.
